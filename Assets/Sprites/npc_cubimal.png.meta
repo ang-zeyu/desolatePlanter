@@ -1,0 +1,1552 @@
+fileFormatVersion: 2
+guid: dbd823a9ae4b97d42bcf5e232c94885a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2032385804103788776
+    second: npc_cubimal_squid__x1_race_png_1354836309_0
+  - first:
+      213: -5980975148714751876
+    second: npc_cubimal_squid__x1_race_png_1354836309_1
+  - first:
+      213: 3867222901615625064
+    second: npc_cubimal_squid__x1_race_png_1354836309_2
+  - first:
+      213: -2359347954419730702
+    second: npc_cubimal_squid__x1_race_png_1354836309_3
+  - first:
+      213: -4813309249196618533
+    second: npc_cubimal_squid__x1_race_png_1354836309_4
+  - first:
+      213: -1220837326638383730
+    second: npc_cubimal_squid__x1_race_png_1354836309_5
+  - first:
+      213: -6392252699448845949
+    second: npc_cubimal_squid__x1_race_png_1354836309_6
+  - first:
+      213: 8067161151143777445
+    second: npc_cubimal_squid__x1_race_png_1354836309_7
+  - first:
+      213: 4931224242957139169
+    second: npc_cubimal_squid__x1_race_png_1354836309_8
+  - first:
+      213: 881147930236822485
+    second: npc_cubimal_squid__x1_race_png_1354836309_9
+  - first:
+      213: 2320437033676919189
+    second: npc_cubimal_squid__x1_race_png_1354836309_10
+  - first:
+      213: -3658527470049141366
+    second: npc_cubimal_squid__x1_race_png_1354836309_11
+  - first:
+      213: 716299689511944553
+    second: npc_cubimal_squid__x1_race_png_1354836309_12
+  - first:
+      213: -955263649988323212
+    second: npc_cubimal_squid__x1_race_png_1354836309_13
+  - first:
+      213: -2106063529561072195
+    second: npc_cubimal_squid__x1_race_png_1354836309_14
+  - first:
+      213: 8425620484268222451
+    second: npc_cubimal_squid__x1_race_png_1354836309_15
+  - first:
+      213: -6785274049117526605
+    second: npc_cubimal_squid__x1_race_png_1354836309_16
+  - first:
+      213: -5591494719803404121
+    second: npc_cubimal_squid__x1_race_png_1354836309_17
+  - first:
+      213: 7573274936559361090
+    second: npc_cubimal_squid__x1_race_png_1354836309_18
+  - first:
+      213: 2005507392622165498
+    second: npc_cubimal_squid__x1_race_png_1354836309_19
+  - first:
+      213: -7140538075606058562
+    second: npc_cubimal_squid__x1_race_png_1354836309_20
+  - first:
+      213: -8085613881248060937
+    second: npc_cubimal_squid__x1_race_png_1354836309_21
+  - first:
+      213: -9142021816932731913
+    second: npc_cubimal_squid__x1_race_png_1354836309_22
+  - first:
+      213: 6145536992746337355
+    second: npc_cubimal_squid__x1_race_png_1354836309_23
+  - first:
+      213: 1637211600798850207
+    second: npc_cubimal_squid__x1_race_png_1354836309_24
+  - first:
+      213: 7265462202659079948
+    second: npc_cubimal_squid__x1_race_png_1354836309_25
+  - first:
+      213: 3926994181920209950
+    second: npc_cubimal_squid__x1_race_png_1354836309_26
+  - first:
+      213: -8841277638808212384
+    second: npc_cubimal_squid__x1_race_png_1354836309_27
+  - first:
+      213: 6737185490334148287
+    second: npc_cubimal_squid__x1_race_png_1354836309_28
+  - first:
+      213: -9032992064751070337
+    second: npc_cubimal_squid__x1_race_png_1354836309_29
+  - first:
+      213: -2792595152205668406
+    second: npc_cubimal_squid__x1_race_png_1354836309_30
+  - first:
+      213: 7746399190076280939
+    second: npc_cubimal_squid__x1_race_png_1354836309_31
+  - first:
+      213: 7270754719317951361
+    second: npc_cubimal_squid__x1_race_png_1354836309_32
+  - first:
+      213: -9052415289305730721
+    second: npc_cubimal_squid__x1_race_png_1354836309_33
+  - first:
+      213: 5524537919118267359
+    second: npc_cubimal_squid__x1_race_png_1354836309_34
+  - first:
+      213: 8011955978006343484
+    second: npc_cubimal_squid__x1_race_png_1354836309_35
+  - first:
+      213: -4776357928825004699
+    second: npc_cubimal_squid__x1_race_png_1354836309_36
+  - first:
+      213: 5546993512704038740
+    second: npc_cubimal_squid__x1_race_png_1354836309_37
+  - first:
+      213: -4862308832236395103
+    second: npc_cubimal_squid__x1_race_png_1354836309_38
+  - first:
+      213: -8150467300931396787
+    second: npc_cubimal_squid__x1_race_png_1354836309_39
+  - first:
+      213: -592896034328105707
+    second: npc_cubimal_squid__x1_race_png_1354836309_40
+  - first:
+      213: -7985721833366475887
+    second: npc_cubimal_squid__x1_race_png_1354836309_41
+  - first:
+      213: 4920648934705713013
+    second: npc_cubimal_squid__x1_race_png_1354836309_42
+  - first:
+      213: -1956134448508026012
+    second: npc_cubimal_squid__x1_race_png_1354836309_43
+  - first:
+      213: 1134632760296488960
+    second: npc_cubimal_squid__x1_race_png_1354836309_44
+  - first:
+      213: 2543985057602135846
+    second: npc_cubimal_squid__x1_race_png_1354836309_45
+  - first:
+      213: -9178875608542211219
+    second: npc_cubimal_squid__x1_race_png_1354836309_46
+  - first:
+      213: -5696990004908165163
+    second: npc_cubimal_squid__x1_race_png_1354836309_47
+  - first:
+      213: -6920470285288068053
+    second: npc_cubimal_squid__x1_race_png_1354836309_48
+  - first:
+      213: 8783729380079367377
+    second: npc_cubimal_squid__x1_race_png_1354836309_49
+  - first:
+      213: 2876850010955123344
+    second: npc_cubimal_squid__x1_race_png_1354836309_50
+  - first:
+      213: -1024422251508560167
+    second: npc_cubimal_squid__x1_race_png_1354836309_51
+  - first:
+      213: -6282334876201414571
+    second: npc_cubimal_squid__x1_race_png_1354836309_52
+  - first:
+      213: 7708651321237121658
+    second: npc_cubimal_squid__x1_race_png_1354836309_53
+  - first:
+      213: 5796631579465743045
+    second: npc_cubimal_squid__x1_race_png_1354836309_54
+  - first:
+      213: -6947315811416867867
+    second: npc_cubimal_squid__x1_race_png_1354836309_55
+  - first:
+      213: 365714048048477339
+    second: npc_cubimal_squid__x1_race_png_1354836309_56
+  - first:
+      213: 1901088738933845336
+    second: npc_cubimal_squid__x1_race_png_1354836309_57
+  - first:
+      213: -3402608991760182768
+    second: npc_cubimal_squid__x1_race_png_1354836309_58
+  - first:
+      213: 4832719235022538271
+    second: npc_cubimal_squid__x1_race_png_1354836309_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a2d50ccc4ef2345a6dc41944636530
+      internalID: -2032385804103788776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33af762bf2034534b990717991bd93b2
+      internalID: -5980975148714751876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697035fe88ce6054ab5b5fcaf6f52900
+      internalID: 3867222901615625064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf44d28cd581ba049bda08763dd77dbf
+      internalID: -2359347954419730702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afddc8726fb2f4046910ecf0e88e9dc0
+      internalID: -4813309249196618533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc889214804eca4f8c8011896ba14dd
+      internalID: -1220837326638383730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80cff29a36e560478d34f93888c8198
+      internalID: -6392252699448845949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffc9dff6e74b76429b0829e1a8831b1
+      internalID: 8067161151143777445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3437802a69e22ad4187a6bd944dccb3d
+      internalID: 4931224242957139169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba158c73ca5cc44906457519da3959
+      internalID: 881147930236822485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f946036548a9b0b4fad49724dfc59b65
+      internalID: 2320437033676919189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6584693ab49428c4182eae5b4ce3ef0a
+      internalID: -3658527470049141366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82d252c2388df44da926431879ad66b
+      internalID: 716299689511944553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42543bdde8f1994cb084a192c41045e
+      internalID: -955263649988323212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1be4e3da6977443b05df10912cbd8e
+      internalID: -2106063529561072195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8815227fd6c89a546be8afd769548b6c
+      internalID: 8425620484268222451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad543a6391ea840af62f04868f1149
+      internalID: -6785274049117526605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_17
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ca6b5cee0bda4da72a862b34be276
+      internalID: -5591494719803404121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_18
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022ae9da2a77a3844a781f073413f151
+      internalID: 7573274936559361090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 54
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6f599b2e7bf9f4f93f4a7721cf73d2
+      internalID: 2005507392622165498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fedbe04875d0e8459ab5f7d4ef9a1c9
+      internalID: -7140538075606058562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c271ddc46443a499f67110d63da7bc
+      internalID: -8085613881248060937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4b4ed1f5bcd4846ad59616088ea729
+      internalID: -9142021816932731913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c9adbf0c2b4b841811166ce5d2b7da
+      internalID: 6145536992746337355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78186919da751224b9d7e38c349ff689
+      internalID: 1637211600798850207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d844c0608a9d440bc23b796655e5f4
+      internalID: 7265462202659079948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_26
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72d24ae2e399e144b4e6ad637c2958d
+      internalID: 3926994181920209950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6be12738beabe4b80eb962f449e574
+      internalID: -8841277638808212384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180268e43e31def479d50ae14d073d0f
+      internalID: 6737185490334148287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bfd97987e87544c80abaaeafdbf470
+      internalID: -9032992064751070337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_30
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9743063a6aa844492dafa637b3a40f
+      internalID: -2792595152205668406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414f44f28e428b7489195f49890c696a
+      internalID: 7746399190076280939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675c0735da613241ab2d2550c5e21a9
+      internalID: 7270754719317951361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_33
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693624d8664c59843ad35d916bd382d2
+      internalID: -9052415289305730721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297be30bb4c643346ae8e5562eb03252
+      internalID: 5524537919118267359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd3d3a08a8a9140a1723aab69273ec
+      internalID: 8011955978006343484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_36
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08cd3e92771fd44c8010435623c8243
+      internalID: -4776357928825004699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_37
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e5fda1298d3ae478815c83d32b06b6
+      internalID: 5546993512704038740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0004aa392b0bcb34eadff22c22fe690a
+      internalID: -4862308832236395103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_39
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 27
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8844130913413249a798e4a459f53f1
+      internalID: -8150467300931396787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d04c6d03e783499df4f73cc9bd16a
+      internalID: -592896034328105707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867398fec6b055546a86f13278d0aacc
+      internalID: -7985721833366475887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_42
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52b6da6df61b6d42872c49186b70d72
+      internalID: 4920648934705713013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0ffb84af5104469b47a650aedec66
+      internalID: -1956134448508026012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301626fbe5a63344ebd296262728c12d
+      internalID: 1134632760296488960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_45
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c193c8151166c43980dba24fc2c4f6
+      internalID: 2543985057602135846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62d43e9f76b6f749895c0bf28f4c58e
+      internalID: -9178875608542211219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de445b259d500d419273d272616f8e0
+      internalID: -5696990004908165163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f547777e70306334ba15e4a2d1119d21
+      internalID: -6920470285288068053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_49
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73d1e9533b4e8842b676c81b7af4dfb
+      internalID: 8783729380079367377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_50
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd9d7c098992a64192e72a9fd90ffa3
+      internalID: 2876850010955123344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_51
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0bac0a896e5b240bd541412ce602d9
+      internalID: -1024422251508560167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_52
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02d924e27db794a84f851dbafd5ff1
+      internalID: -6282334876201414571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_53
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9632d5d924d741d439760847b0c6226b
+      internalID: 7708651321237121658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_54
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895a6e19ac36b594caa1794ddfc3f5af
+      internalID: 5796631579465743045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_55
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d2bde359c4d5e46955efde0216f77d
+      internalID: -6947315811416867867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_56
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88443918e0ccb274283962055a6b155d
+      internalID: 365714048048477339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_57
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6927a4d821ec0a4389495c768ae560b
+      internalID: 1901088738933845336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafecf6eb17a030449660b33ca807ab2
+      internalID: -3402608991760182768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_squid__x1_race_png_1354836309_59
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa6f3eb5f1020418dfa6eb17267ec8
+      internalID: 4832719235022538271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a7cf41d03a176ea469c17215a991526a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

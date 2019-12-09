@@ -1,0 +1,1552 @@
+fileFormatVersion: 2
+guid: 28344b81b2f1c7c4db278f048e125165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3565766555673271725
+    second: Sciono_0
+  - first:
+      213: 6410277057506218465
+    second: Sciono_1
+  - first:
+      213: -8329273326298183701
+    second: Sciono_2
+  - first:
+      213: 6262934921336316493
+    second: Sciono_3
+  - first:
+      213: 1321345217168254376
+    second: Sciono_4
+  - first:
+      213: -6230085631710758788
+    second: Sciono_5
+  - first:
+      213: 670368370328536960
+    second: Sciono_6
+  - first:
+      213: 4656327345695855204
+    second: Sciono_7
+  - first:
+      213: -2772310162920864917
+    second: Sciono_8
+  - first:
+      213: -6398929571609525110
+    second: Sciono_9
+  - first:
+      213: -829144943526444420
+    second: Sciono_10
+  - first:
+      213: -4558525208645471262
+    second: Sciono_11
+  - first:
+      213: 2145000401469577278
+    second: Sciono_12
+  - first:
+      213: 62294728165853061
+    second: Sciono_13
+  - first:
+      213: -1743504447713888063
+    second: Sciono_14
+  - first:
+      213: -3851885016292340069
+    second: Sciono_15
+  - first:
+      213: -364161816266387274
+    second: Sciono_16
+  - first:
+      213: 4293352190557284987
+    second: Sciono_17
+  - first:
+      213: 8485802864811679121
+    second: Sciono_18
+  - first:
+      213: -1544951720622576130
+    second: Sciono_19
+  - first:
+      213: 1424170458430206837
+    second: Sciono_20
+  - first:
+      213: -6911440324449337156
+    second: Sciono_21
+  - first:
+      213: 1833923122202993855
+    second: Sciono_22
+  - first:
+      213: 3995584880703734849
+    second: Sciono_23
+  - first:
+      213: 2543575169271451516
+    second: Sciono_24
+  - first:
+      213: -849795846241299867
+    second: Sciono_25
+  - first:
+      213: -5515013324237452846
+    second: Sciono_26
+  - first:
+      213: 6966585723295006062
+    second: Sciono_27
+  - first:
+      213: 8410661822613099043
+    second: Sciono_28
+  - first:
+      213: -1005088735724215985
+    second: Sciono_29
+  - first:
+      213: 7363815105129680843
+    second: Sciono_30
+  - first:
+      213: 2409179832866387570
+    second: Sciono_31
+  - first:
+      213: -116082140167539080
+    second: Sciono_32
+  - first:
+      213: -3351668443006491388
+    second: Sciono_33
+  - first:
+      213: -3144724059917980389
+    second: Sciono_34
+  - first:
+      213: 8111645769541671031
+    second: Sciono_35
+  - first:
+      213: 1712655728016626085
+    second: Sciono_36
+  - first:
+      213: 627515553079497294
+    second: Sciono_37
+  - first:
+      213: -4194997896724953213
+    second: Sciono_38
+  - first:
+      213: -857484549370441012
+    second: Sciono_39
+  - first:
+      213: -1613579681848463116
+    second: Sciono_40
+  - first:
+      213: -7734699933635351773
+    second: Sciono_41
+  - first:
+      213: -3056770156965873150
+    second: Sciono_42
+  - first:
+      213: 1900003266001467672
+    second: Sciono_43
+  - first:
+      213: 8055947321154318695
+    second: Sciono_44
+  - first:
+      213: -5553638081977972130
+    second: Sciono_45
+  - first:
+      213: 8767893142950346445
+    second: Sciono_46
+  - first:
+      213: 1647108496233017535
+    second: Sciono_47
+  - first:
+      213: -8585478799676268872
+    second: Sciono_48
+  - first:
+      213: -2346749969420442579
+    second: Sciono_49
+  - first:
+      213: -6956626006287988949
+    second: Sciono_50
+  - first:
+      213: -6518517759189447299
+    second: Sciono_51
+  - first:
+      213: 533756897306208098
+    second: Sciono_52
+  - first:
+      213: 2376470720533375753
+    second: Sciono_53
+  - first:
+      213: 5883827252240484004
+    second: Sciono_54
+  - first:
+      213: -8368602770414432233
+    second: Sciono_55
+  - first:
+      213: -2438499327218442472
+    second: Sciono_56
+  - first:
+      213: 3413480571081112873
+    second: Sciono_57
+  - first:
+      213: -4765106746513919907
+    second: Sciono_58
+  - first:
+      213: -7096574273497785702
+    second: Sciono_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sciono_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76005f15da430a8429266b54e163053c
+      internalID: 3565766555673271725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234fa9de997f9fc4da36654f018e10d8
+      internalID: 6410277057506218465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc4a2d3d3355348b63b386ec1c6518
+      internalID: -8329273326298183701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf5e44d37f130e4fb6d2325e577fe75
+      internalID: 6262934921336316493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad08d74e2a06f4fa44f87d3a199450
+      internalID: 1321345217168254376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a7f4c90209344b9a7898faa8c8f61
+      internalID: -6230085631710758788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c96539227b844441a0b5c08bce50705
+      internalID: 670368370328536960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a9beba0a17db044a9837b092f882e3
+      internalID: 4656327345695855204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f16c25028850a4b8eeab603d748fad
+      internalID: -2772310162920864917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e19a28674023bb4abb09e814a547a2f
+      internalID: -6398929571609525110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efcc832b8b2fe24089cd513a409c499
+      internalID: -829144943526444420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c095044ae1cf6d74fbaa09e20a90aeda
+      internalID: -4558525208645471262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ebf33b7c09764a8d700d5d1765a89
+      internalID: 2145000401469577278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47ec2ae4c08cc24bb6d97f1b867d893
+      internalID: 62294728165853061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7244d266d8d7f7e44b5aca890a36f99b
+      internalID: -1743504447713888063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9951c019edb419446b286af9e671b05e
+      internalID: -3851885016292340069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bee5a50b0dcca40b39a03fec241341
+      internalID: -364161816266387274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_17
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb46307fe516244b839fe6d18f27729
+      internalID: 4293352190557284987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_18
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e2ca51e0f7d24f94b06e554d2bf71
+      internalID: 8485802864811679121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_19
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 70
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638da86834eba57498bb38670cb6dc88
+      internalID: -1544951720622576130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f762b95164964593eb6651543d81d
+      internalID: 1424170458430206837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952f5f58829004e49b155eeaecce2c06
+      internalID: -6911440324449337156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f76640fa90c34db9167255deada70
+      internalID: 1833923122202993855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145b8e8d6a307f4ca7e552550e1bc47
+      internalID: 3995584880703734849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c912f23e0db4fd54a9557ea026f2a83e
+      internalID: 2543575169271451516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09929287422d505488da2909252004ee
+      internalID: -849795846241299867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d89c33ced9534347a06bce3656524f0
+      internalID: -5515013324237452846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2de500e2b8e3cf4787f86f8c2c97574
+      internalID: 6966585723295006062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d79f6710137c2c4c90e00264124015d
+      internalID: 8410661822613099043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79da5cdf27e54a4e9ca19cb5c9c42fb
+      internalID: -1005088735724215985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca4999a751710409caf1318ba86f51
+      internalID: 7363815105129680843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3014c77332ccb042868717c59c8388e
+      internalID: 2409179832866387570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_32
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33724916648b6458ed75d5c8d4a1ab
+      internalID: -116082140167539080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1635912d1dab4aa1561e49c2a40fe
+      internalID: -3351668443006491388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756801febf768c4dad5fce7880164c6
+      internalID: -3144724059917980389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_35
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca92bcd68f320428e267bf719c2d1c
+      internalID: 8111645769541671031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_36
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446256b1bbb9f4a439e8f72e591886be
+      internalID: 1712655728016626085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_37
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9dbb5402735eb4fa6fc2d7703c429d
+      internalID: 627515553079497294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_38
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039756f1629a0e84bb2cfcd27f6d4a72
+      internalID: -4194997896724953213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_39
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 35
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d249977bf3f76f43b4d02b82276f116
+      internalID: -857484549370441012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912f27a9cfdb6144dab6bff8c0c848a5
+      internalID: -1613579681848463116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238ba17591131341abc55de31decf5e
+      internalID: -7734699933635351773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a4134fe1dfee4395236256adc87c7
+      internalID: -3056770156965873150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44f167b8e6014c409a79faaea33a4a7
+      internalID: 1900003266001467672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e2364fd6effbd498f95196e64b218b
+      internalID: 8055947321154318695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c3dc2640f5f649a1f7be79466c10a
+      internalID: -5553638081977972130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab7bb1dedc909459a4058d5423b84b
+      internalID: 8767893142950346445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93af7b5272e5d340b2d95b52db4776e
+      internalID: 1647108496233017535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841589ec890a85c48a2af76a9a1083d2
+      internalID: -8585478799676268872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_49
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727b9c1afb1d2d4488f90fc2da24e071
+      internalID: -2346749969420442579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1f84ac6ab22a941b6b43d79964e256
+      internalID: -6956626006287988949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124717da562f2384496c6d2d51c90900
+      internalID: -6518517759189447299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27c183127726994380a15a9ad35897e
+      internalID: 533756897306208098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_53
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0599c10c2fca93c48b3ed846fde6c802
+      internalID: 2376470720533375753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_54
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433187f11827d9245875f4980be4aa03
+      internalID: 5883827252240484004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_55
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57319b34c7fb9274689b8b7c5717538d
+      internalID: -8368602770414432233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_56
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7da0f81956fe34686f4c1379d6e839
+      internalID: -2438499327218442472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_57
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03296ca771fa9664bba7ec0f4c91dcc3
+      internalID: 3413480571081112873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_58
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe5e6fb81a79fe4bb663902c5e1c174
+      internalID: -4765106746513919907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sciono_59
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e2e02880890e4985e752c8422789b
+      internalID: -7096574273497785702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 660ab7239a24ef146879a5e919c3bd2e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

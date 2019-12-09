@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 2cff0ea6bf0fedc47ac5fd70bbb1d233
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4176996266055492819
+    second: npc_crab_0
+  - first:
+      213: 7326735679053687357
+    second: npc_crab_1
+  - first:
+      213: -5599211873607566726
+    second: npc_crab_2
+  - first:
+      213: -2176637346180656413
+    second: npc_crab_3
+  - first:
+      213: 5296394358012339564
+    second: npc_crab_4
+  - first:
+      213: 4689551874821027026
+    second: npc_crab_5
+  - first:
+      213: 3448280532054122300
+    second: npc_crab_6
+  - first:
+      213: -2789405898161591915
+    second: npc_crab_7
+  - first:
+      213: 443965453457013171
+    second: npc_crab_8
+  - first:
+      213: -7573057276429907135
+    second: npc_crab_9
+  - first:
+      213: -2070802257736614117
+    second: npc_crab_10
+  - first:
+      213: 2594170962828086287
+    second: npc_crab_11
+  - first:
+      213: -9207487591460069951
+    second: npc_crab_12
+  - first:
+      213: 2038064826096218501
+    second: npc_crab_13
+  - first:
+      213: 8756886182708725589
+    second: npc_crab_14
+  - first:
+      213: 948995165813580465
+    second: npc_crab_15
+  - first:
+      213: -2015649290490489201
+    second: npc_crab_16
+  - first:
+      213: -535809649710142266
+    second: npc_crab_17
+  - first:
+      213: -8774515196676534386
+    second: npc_crab_18
+  - first:
+      213: 3842945406350349213
+    second: npc_crab_19
+  - first:
+      213: 2692161231617386906
+    second: npc_crab_20
+  - first:
+      213: -2412871585754435404
+    second: npc_crab_21
+  - first:
+      213: 6776374930086037539
+    second: npc_crab_22
+  - first:
+      213: -4905633075559450718
+    second: npc_crab_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_crab_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad652e7e8c0ff745827f4b3afd94d2d
+      internalID: -4176996266055492819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6750966fd8e872e4ba1445fe3511ef29
+      internalID: 7326735679053687357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c05f2fca6ffa454ba8cd080ead6af64
+      internalID: -5599211873607566726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d054cdce675fe48ad8e78a94b98048
+      internalID: -2176637346180656413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e74276e603c444bf88b586dadcc2c
+      internalID: 5296394358012339564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753b5ace1dbf33943afcfe37f901f9ea
+      internalID: 4689551874821027026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f695e659ca26f4dbbf61054bf2e5da
+      internalID: 3448280532054122300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b13938f370eeac46a22ff358c0093e6
+      internalID: -2789405898161591915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776013dbb0213bb4483e3c3f71e91e34
+      internalID: 443965453457013171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfc33057bbacb64390c7f5b37dc4cfd
+      internalID: -7573057276429907135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00032c50d4449bc47863932cdd58c964
+      internalID: -2070802257736614117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c3aa6643886824bb11f6c677ddb58e
+      internalID: 2594170962828086287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a853812b08dbcf64890b7f84daffddc5
+      internalID: -9207487591460069951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24878837716856748a492472d3b9e0b8
+      internalID: 2038064826096218501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e9fa1c79a7e7942956f041e54f9ce3
+      internalID: 8756886182708725589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5bdea238cfd40409a21a70ada97fcf
+      internalID: 948995165813580465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61afd75c8d1aba1408cc285c920d1bd4
+      internalID: -2015649290490489201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_17
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272d2f5706c8fd745b29990439a3d152
+      internalID: -535809649710142266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8494b756bbe10446800ce15bb137d31
+      internalID: -8774515196676534386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bade74d5f876d43ad8582905c5997a
+      internalID: 3842945406350349213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74800e0e70a914b45b092ba7688982f4
+      internalID: 2692161231617386906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_21
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae9135aa4208e4bb42f11a71a5b6c4
+      internalID: -2412871585754435404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2231a3ed07987624f97421cf619f5d9d
+      internalID: 6776374930086037539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab_23
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54521093505714448939ffb115a57e07
+      internalID: -4905633075559450718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3fc3cf8bd15f30046a7fe15ba5ddfb16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

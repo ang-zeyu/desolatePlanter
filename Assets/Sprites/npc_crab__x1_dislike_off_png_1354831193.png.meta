@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 5703e041246c4354e856d0d228ef0b21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4446145586056906679
+    second: npc_crab__x1_dislike_off_png_1354831193_0
+  - first:
+      213: -8524631256419625405
+    second: npc_crab__x1_dislike_off_png_1354831193_1
+  - first:
+      213: 1872344236209106502
+    second: npc_crab__x1_dislike_off_png_1354831193_2
+  - first:
+      213: -6991441286541773628
+    second: npc_crab__x1_dislike_off_png_1354831193_3
+  - first:
+      213: -5301149030939917981
+    second: npc_crab__x1_dislike_off_png_1354831193_4
+  - first:
+      213: 3977718299870606978
+    second: npc_crab__x1_dislike_off_png_1354831193_5
+  - first:
+      213: 3460088873761613872
+    second: npc_crab__x1_dislike_off_png_1354831193_6
+  - first:
+      213: 3341760623031848389
+    second: npc_crab__x1_dislike_off_png_1354831193_7
+  - first:
+      213: -818219181198094822
+    second: npc_crab__x1_dislike_off_png_1354831193_8
+  - first:
+      213: 4641985268688709669
+    second: npc_crab__x1_dislike_off_png_1354831193_9
+  - first:
+      213: 4007161364760845027
+    second: npc_crab__x1_dislike_off_png_1354831193_10
+  - first:
+      213: -2770919399864133131
+    second: npc_crab__x1_dislike_off_png_1354831193_11
+  - first:
+      213: 851428634345966120
+    second: npc_crab__x1_dislike_off_png_1354831193_12
+  - first:
+      213: 8161186576754439911
+    second: npc_crab__x1_dislike_off_png_1354831193_13
+  - first:
+      213: 8200251973117693822
+    second: npc_crab__x1_dislike_off_png_1354831193_14
+  - first:
+      213: -3402852537714450129
+    second: npc_crab__x1_dislike_off_png_1354831193_15
+  - first:
+      213: 4205271203236296416
+    second: npc_crab__x1_dislike_off_png_1354831193_16
+  - first:
+      213: -2195209799075611155
+    second: npc_crab__x1_dislike_off_png_1354831193_17
+  - first:
+      213: 4715275995260021124
+    second: npc_crab__x1_dislike_off_png_1354831193_18
+  - first:
+      213: -1360681002969584892
+    second: npc_crab__x1_dislike_off_png_1354831193_19
+  - first:
+      213: 625941142975150992
+    second: npc_crab__x1_dislike_off_png_1354831193_20
+  - first:
+      213: -5773547246273757771
+    second: npc_crab__x1_dislike_off_png_1354831193_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce18096b6383d5b44923f7418b9b163a
+      internalID: 4446145586056906679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401313d78727bf647af3e6991db10346
+      internalID: -8524631256419625405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ed6cc3ee982664a9a65c63218d8294
+      internalID: 1872344236209106502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a012c9c122cbcf34399bc27754b7da41
+      internalID: -6991441286541773628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655beb44c47e90843b925c370b3e3f0b
+      internalID: -5301149030939917981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 387
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c3fb877266f094fb399f4f2249550e
+      internalID: 3977718299870606978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0ef29e3f0f4b438d5b06f203a3e01
+      internalID: 3460088873761613872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b49e317f885fa9468830c55803602e2
+      internalID: 3341760623031848389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01e8635ae6e1e4387ce3f5da835c2d
+      internalID: -818219181198094822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2f15233dcbafa45a953c205be69f20
+      internalID: 4641985268688709669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c96524203cb2f44ae777a0e47abda7
+      internalID: 4007161364760845027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 258
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4081b6db40610419e086aeebf4a5be
+      internalID: -2770919399864133131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee95cc55581d3f439319437a840345d
+      internalID: 851428634345966120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3223b93dd25546a5eac533bb528cb
+      internalID: 8161186576754439911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d121667f8a93142b57d92c2e46adbd
+      internalID: 8200251973117693822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951985b652ec6c745aa0aa0d31b02e18
+      internalID: -3402852537714450129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c2f8fa37789f4a84407438b1bdc71
+      internalID: 4205271203236296416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_17
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 129
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef283169b8175d4ba1b7a3b34153a5e
+      internalID: -2195209799075611155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f97430446b3e9c408388e9553cf134f
+      internalID: 4715275995260021124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b670667ce9a1887498dd2218c9b5fb88
+      internalID: -1360681002969584892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db91d713c63cea0468b00f37a643d44d
+      internalID: 625941142975150992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_dislike_off_png_1354831193_21
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1eb9a54f1a7e48838dc1cdc807e0d
+      internalID: -5773547246273757771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 71219365ccef92c46877110b59ced9a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
